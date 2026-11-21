@@ -1,0 +1,7 @@
+D:\Laboratorio 4\PracticaLab4\FacturacionTaller\bin\Debug\FacturacionTaller.dll.config
+D:\Laboratorio 4\PracticaLab4\FacturacionTaller\bin\Debug\FacturacionTaller.dll
+D:\Laboratorio 4\PracticaLab4\FacturacionTaller\bin\Debug\FacturacionTaller.pdb
+D:\Laboratorio 4\PracticaLab4\FacturacionTaller\obj\Debug\FacturacionTaller.csproj.AssemblyReference.cache
+D:\Laboratorio 4\PracticaLab4\FacturacionTaller\obj\Debug\FacturacionTaller.csproj.CoreCompileInputs.cache
+D:\Laboratorio 4\PracticaLab4\FacturacionTaller\obj\Debug\FacturacionTaller.dll
+D:\Laboratorio 4\PracticaLab4\FacturacionTaller\obj\Debug\FacturacionTaller.pdb

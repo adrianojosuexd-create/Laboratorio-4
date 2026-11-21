@@ -1,0 +1,11 @@
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\bin\Debug\SistemaTaller.exe.config
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\bin\Debug\SistemaTaller.exe
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\bin\Debug\SistemaTaller.pdb
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\bin\Debug\FacturacionTaller.dll
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\bin\Debug\FacturacionTaller.pdb
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\bin\Debug\FacturacionTaller.dll.config
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\obj\Debug\SistemaTaller.csproj.AssemblyReference.cache
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\obj\Debug\SistemaTaller.csproj.CoreCompileInputs.cache
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\obj\Debug\SistemaT.49553097.Up2Date
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\obj\Debug\SistemaTaller.exe
+D:\Laboratorio 4\PracticaLab4\SistemaTaller\obj\Debug\SistemaTaller.pdb
